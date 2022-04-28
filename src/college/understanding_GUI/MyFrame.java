@@ -10,7 +10,7 @@ class MyFrame {
 
         // CREATING FRAME WINDOW DIRECTLY USING THE FRAME CLASS
         Frame f2 = new Frame("");
-        f2.setBackground(Color.green);;
+        f2.setBackground(Color.green);
         f2.setSize(300,300); 
         f2.setVisible(true);
 
