@@ -52,7 +52,7 @@ that covers various topics and challenges.
 
 # College Programs 📚
 
-| Programs                                           | Discription                            |
+| Programs                                           | Description                            |
 |----------------------------------------------------|----------------------------------------|
 |1. **[UserInput.java:](src/college/UserInput.java)**| Program to show how to take user input.|
 |2. **[Table.java:](src/college/Table.java)**| Printing table of any number using the loops.|
@@ -66,7 +66,7 @@ that covers various topics and challenges.
 
 ### [9.Understanding Inheritance](src/college/understanding_inheritence)
 
-| Programs                                           | Discription |
+| Programs                                           | Description |
 |--------------------|-------------|
 |1. **[Inheritence1.java:](src/college/understanding_inheritence/Inheritence1.java)**| Program to demonstrate Inheritence in java.|
 |2. **[Abstraction.java:](src/college/understanding_inheritence/Abstraction.java)**| Program to demonstrate Abstraction in java.|
@@ -74,7 +74,7 @@ that covers various topics and challenges.
 
 ### [10.Understanding Interfaces](src/college/understanding_interface)
 
-| Programs                                           | Discription |
+| Programs                                           | Description |
 |--------------------|-------------|
 |1. **[Interface.java:](src/college/understanding_interface/Interface.java)**| A program that shows the implementation of Interface in java with the help of taking input from the user, the program calculates the area of Square and Rectangle.|
 |2. **[InterfaceEx1.java:](src/college/understanding_interface/InterfaceEx1.java)**| This program demonstrates the interfaces in java. Interface are very similar to abstract classes|
@@ -84,7 +84,7 @@ that covers various topics and challenges.
 
 ### [11.Understanding Exceptions](src/college/understanding_exceptions) 
 
-| Programs                                           | Discription |
+| Programs                                           | Description |
 |--------------------|-------------|
 |1. **[ExceptionEx1.java:](src/college/understanding_exceptions/ExceptionEx1.java)**| This program domonstrate the Exceptions in java.|
 |2. **[ExceptionEx2.java:](src/college/understanding_exceptions/ExceptionEx2.java)**| This program demonstrate the handling of multiple exceptions in java.|
@@ -98,9 +98,9 @@ that covers various topics and challenges.
 
 ### [12. Understanding GUI](src/college/understanding_GUI)
 
-| Programs                                           | Discription |
+| Programs                                           | Description |
 |--------------------|-------------|
-|1. **[MyFrame.java:](src/college/understanding_GUI/MyFrame.java)**| Sample code to show on how to create window using java.awt.|
+|1. **[MyFrame.java:](src/college/understanding_GUI/MyFrame.java)**| Sample code to show how to create a window using java.awt.|
 |2. **[FrameButtons.java:](src/college/understanding_GUI/FrameButtons.java)**| Program to demonstrate button in java.awt.|
 |3. **[FlowLayoutEx1.java:](src/college/understanding_GUI/FlowLayoutEx1.java)**| Program to demonstrate flow layout in java.|
 |4. **[CustomLayout.java:](src/college/understanding_GUI/CustomLayout.java)**| Program to demonstrate custom layout in java.|
@@ -121,7 +121,7 @@ that covers various topics and challenges.
 
 Do [README](src/college/understanding_DBConnectivity/README.md) to get started.
 
-| Programs                                           | Discription |
+| Programs                                           | Description |
 |--------------------|-------------|
 |1. **[ConnectionDB.java:](src/college/understanding_DBConnectivity/ConnectionDB.java)**| This program demonstrates how to connect to the my sql database using JDBC Driver.|
 |2. **[InsertingData.java:](src/college/understanding_DBConnectivity/InsertingData.java)**| Program to demonstrate on how to insert data into the database.|
@@ -137,7 +137,7 @@ Do [README](src/college/understanding_DBConnectivity/README.md) to get started.
 
 #  Intro Programs 🧑‍💻
 
-| Programs                                           | Discription |
+| Programs                                           | Description |
 |--------------------|-------------|
 |1. **[Example.java:](src/learning/Example.java)**| Very first Java program.|
 |2. **[Example2.java:](src/learning/Example2.java)**| Understanding about variables and various data types.|
@@ -166,7 +166,7 @@ Do [README](src/college/understanding_DBConnectivity/README.md) to get started.
 
 ## Understanding Static
 
-| Programs                                           | Discription |
+| Programs                                           | Description |
 |--------------------|-------------|
 |1. **[UseStatic.java:](src/learning/understanding_static/UseStatic.java)**| Program to demonstrate the use of static variables , methods and blocks.|
 |2. **[StaticDemo.java:](src/learning/understanding_static/StaticDemo.java)**| Program to demonstrate on how to call the static members of one class into another.|
@@ -174,7 +174,7 @@ Do [README](src/college/understanding_DBConnectivity/README.md) to get started.
 
 ## Understanding super keyword
 
-| Programs                                           | Discription |
+| Programs                                           | Description |
 |--------------------|-------------|
 |1. **[SuperEx1.java](src/learning/understanding_super/SuperEx1.java)**| Program to demonstrate the use of super keyword in inheritance.|
 |2. **[SuperEx1.java](src/learning/understanding_super/SuperEx1.java)**| Program to demonstrate the use of super keyword in inheritance when member of super class is overridden.|
@@ -182,7 +182,7 @@ Do [README](src/college/understanding_DBConnectivity/README.md) to get started.
 
 ## Understanding GUI
 
-| Programs                                           | Discription |
+| Programs                                           | Description |
 |--------------------|-------------|
 |1. **[PalindromeGUI.java:](src/learning/GUI_programs/PalindromGUI.java)**| GUI program to reverse a string or a number and to check if it's a palindrome or not.|
 |2. **[Calculator.java:](src/learning/GUI_programs/PalindromGUI.java)**| Calculator App.|
